@@ -1,0 +1,16 @@
+﻿markdown: rdiscount
+permalink: /:title/
+url: http://kpin41.github.io
+name: kpin41's Blog
+author: kpin41
+qq: 819292474
+email: 819292474@qq.com
+duoshuo: kpin41
+cnzz: 1254074327
+weibo: 5475731159
+github: kpin41
+pygments: true
+safe: true
+paginate: 20
+truncate: 50
+about: "这里是 kpin41 的个人博客，创建于 2014 年。使用 Jekyll @ GitHub 平台搭建，Jekyll真的非常强大。<br /><br />这里还没有发布较多的博文，博客页面也未完善，欢迎观赏、建议、拍砖……"
